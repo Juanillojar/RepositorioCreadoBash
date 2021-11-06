@@ -5,6 +5,7 @@ public class pruebas {
 		// TODO Auto-generated method stub
 		System.out.println("Hola GitHub");
 		System.out.println("Subir el repositorio a GitHub");
+		System.out.println("Editado en GitHub");
 	}
 
 }
